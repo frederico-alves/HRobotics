@@ -1,0 +1,59 @@
+--------------------------------------
+Thursday 16/11
+* Check Raleway font (V)
+* Review columns (V)
+* CSS - navbar + animation > underline (V)
+* CSS - footbar (V)
+* CSS - Contact (V)
+* CSS - About (V)
+---------------------------------------
+Friday 17/11
+* Polish the Design
+* CSS - Team + Animation > img (V)
+* CSS - FlightCloud (V)
+* CSS - HiSight  + Animation > icon (V)
+* CSS - index (V)
+---------------------------------------
+WEEKEND HOMEWORK:
+* Mobile Responsive
+* Fix bugs
+  - Form textarea
+* PHP > Form 'Post' route to database
+--------------------------------------
+
+Monday 20/11
+* Big Screen Devices Responsive
+* Cross browser support
+* Speed Test and improvements
+* Update images !important
+--------------------------------------
+Tuesday 21/11
+* Final presentation
+--------------------------------------
+Wednesday 22/11
+
+--------------------------------------
+Thursday 23/11
+
+--------------------------------------
+Friday 24/11
+
+--------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------
+Thursday 23/11
+--------------------------------------
